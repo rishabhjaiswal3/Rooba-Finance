@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Rooba-Finance/static/css/main.4bfa5516.css",
-    "main.js": "/Rooba-Finance/static/js/main.87e164bc.js",
+    "main.css": "/Rooba-Finance/static/css/main.493c6c25.css",
+    "main.js": "/Rooba-Finance/static/js/main.30d94137.js",
     "static/js/787.23b9accc.chunk.js": "/Rooba-Finance/static/js/787.23b9accc.chunk.js",
     "static/media/logo.svg": "/Rooba-Finance/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Rooba-Finance/index.html",
-    "main.4bfa5516.css.map": "/Rooba-Finance/static/css/main.4bfa5516.css.map",
-    "main.87e164bc.js.map": "/Rooba-Finance/static/js/main.87e164bc.js.map",
+    "main.493c6c25.css.map": "/Rooba-Finance/static/css/main.493c6c25.css.map",
+    "main.30d94137.js.map": "/Rooba-Finance/static/js/main.30d94137.js.map",
     "787.23b9accc.chunk.js.map": "/Rooba-Finance/static/js/787.23b9accc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4bfa5516.css",
-    "static/js/main.87e164bc.js"
+    "static/css/main.493c6c25.css",
+    "static/js/main.30d94137.js"
   ]
 }
